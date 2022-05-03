@@ -1,13 +1,5 @@
-# cpe315-lab6
 Parallelization
 
-
-
-# Thiha Myint
-
-# William Tsai
-
-######You may work in pairs on this assignment.
 ###Purpose
 To measure performance impacts from parallelization techniques
 
